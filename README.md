@@ -22,5 +22,6 @@
 ### 摄影集锦
 * [初始摄影，一见钟情](http://www.jianshu.com/p/d156fa3d8cf5)
 * [苏州游记之斜塘老街](http://www.jianshu.com/p/4c3119a0d765)
+* [苏州游记之平江路](http://www.jianshu.com/p/86c6825f6f72)
 
 ### 摄影日志
