@@ -4,7 +4,7 @@
 ### 摄影网站
 * [蜂鸟网](http://www.fengniao.com/)
 * [图虫网](https://tuchong.com/)
-* [POCO摄影](http://photo.poco.cn/vision.php)
+* [POCO摄影](http://photo.poco.cn/)
 * [乐乎](http://www.lofter.com/dashboard/)
 * [最出色的摄影社区 / 500px](https://500px.com/)
 * [Flickr Blog](http://blog.flickr.net/en)
@@ -19,9 +19,7 @@
 * [旅拍负空间构图思维技巧](http://www.fsbus.com/sheyingjiqiao/22918.html)
 * [终于知道如何把握色彩，才能让照片干净又通透了！](https://tuchong.com/1535376/t/15438303/)
 * [五种后期方法，让照片更有质感！](https://tuchong.com/1535376/t/15441904/)
-### 摄影集锦
-* [初始摄影，一见钟情](http://www.jianshu.com/p/d156fa3d8cf5)
-* [苏州游记之斜塘老街](http://www.jianshu.com/p/4c3119a0d765)
-* [苏州游记之平江路](http://www.jianshu.com/p/86c6825f6f72)
-
 ### 摄影日志
+* [简书](https://www.jianshu.com/u/c6b5715f3016)
+* [图虫](https://tuchong.com/2763959/)
+
