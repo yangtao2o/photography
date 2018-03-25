@@ -22,4 +22,5 @@
 ### 摄影日志
 * [简书](https://www.jianshu.com/u/c6b5715f3016)
 * [图虫](https://tuchong.com/2763959/)
+* [LOFTER](http://dataoboy.lofter.com/)
 
