@@ -1,11 +1,12 @@
 # 大涛子的摄影小站
 
-> 初始摄影，一见钟情。摄影是一件非常有趣的艺术，而且很个人化，同一个场景，只要你喜欢，拍出怎样的感觉也可以！
+> 摄影是一件非常有趣的艺术，而且很个人化，同一个场景，只要你喜欢，拍出怎样的感觉也可以！
 
 ### 我的摄影日志
-* [简书](https://www.jianshu.com/u/c6b5715f3016)
-* [图虫](https://tuchong.com/2763959/)
-* [LOFTER](http://dataoboy.lofter.com/)
+* [简书](https://www.jianshu.com/u/c6b5715f3016) --- 记录一些心情日志
+* [图虫](https://tuchong.com/2763959/) --- 平时拍了就上传的地方
+* [LOFTER](http://dataoboy.lofter.com/) --- PC 主页很个性化，很简洁
+* [印象](https://cc.adnonstop.com/index.php?r=Info/Home&user_id=160865486&pn=interphoto) --- 移动社区，人气很高涨
 
 ### 摄影网站
 * [蜂鸟网](http://www.fengniao.com/)
