@@ -1,5 +1,11 @@
-# photography
+# 大涛子的摄影小站
+
 > 初始摄影，一见钟情。摄影是一件非常有趣的艺术，而且很个人化，同一个场景，只要你喜欢，拍出怎样的感觉也可以！
+
+### 我的摄影日志
+* [简书](https://www.jianshu.com/u/c6b5715f3016)
+* [图虫](https://tuchong.com/2763959/)
+* [LOFTER](http://dataoboy.lofter.com/)
 
 ### 摄影网站
 * [蜂鸟网](http://www.fengniao.com/)
@@ -8,6 +14,7 @@
 * [乐乎](http://www.lofter.com/dashboard/)
 * [最出色的摄影社区 / 500px](https://500px.com/)
 * [Flickr Blog](http://blog.flickr.net/en)
+
 ### 摄影杂刊
 * [新手进阶教程，国外轻后期调片思路——洛丽塔珠海](https://lolita2013.tuchong.com/t/15429984/)
 * [玩转摄影单反相机手动模式详解](http://www.fsbus.com/danfanrumen/12443.html)
@@ -19,8 +26,7 @@
 * [旅拍负空间构图思维技巧](http://www.fsbus.com/sheyingjiqiao/22918.html)
 * [终于知道如何把握色彩，才能让照片干净又通透了！](https://tuchong.com/1535376/t/15438303/)
 * [五种后期方法，让照片更有质感！](https://tuchong.com/1535376/t/15441904/)
-### 摄影日志
-* [简书](https://www.jianshu.com/u/c6b5715f3016)
-* [图虫](https://tuchong.com/2763959/)
-* [LOFTER](http://dataoboy.lofter.com/)
 
+### 加我为好友
+* QQ：821848566
+* 微信：wxid821848566
